@@ -1,4 +1,4 @@
-﻿/*v0.11*/
+/*! wrouter v0.1.1 | (c) leiweicyz | www.51news.cc/license */
 //使用
 //var router = wrouter({
 //    html5history: false,
